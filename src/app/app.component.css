@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+    color: white;
+    width: 80%;
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#desc_button {
+  margin-bottom: 2%;
+}
+
+#demo {
+  margin-bottom: 3%;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: 7%;
+
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+button {
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+#playbtn {
+  margin-bottom: 5px;
+}
+
+.lead {
+  margin-bottom: auto;
+}
+
+#timer {
+  margin-bottom: 2%;
+}
+
+#submit_btn {
+  margin: auto 1%;
+  width: 90px;
+}

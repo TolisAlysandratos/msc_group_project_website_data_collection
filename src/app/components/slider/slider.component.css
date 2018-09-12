@@ -1,0 +1,13 @@
+.slider {
+  width: 300px;
+  margin: auto;
+}
+
+.text {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.noUi-connects {
+  background: coral;
+}

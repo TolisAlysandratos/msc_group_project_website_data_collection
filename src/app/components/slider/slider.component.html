@@ -1,0 +1,13 @@
+<div class="slider">
+  <nouislider [connect]="true" [min]="someMin" [max]="someMax"
+  [(ngModel)]="valenceRange" (change)="saveRange('valence', $event)"></nouislider>
+  <div class="text">
+    - Valence +
+  </div>
+  <nouislider [connect]="true" [min]="someMin" [max]="someMax"
+  [(ngModel)]="arousalRange" (change)="saveRange('arousal', $event)"></nouislider>
+  <div class="text">
+    - Arousal +
+  </div>
+
+</div>
